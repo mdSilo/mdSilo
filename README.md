@@ -10,7 +10,11 @@ your data is on your device(can be as a single json)
 
 [Demo](https://mdsilo.com/app/demo)  
 
-[Web App](https://github.com/danloh/mdSilo-web)
+[Web App](https://github.com/danloh/mdSilo-web) 
+
+
+<p align="center"><img src="https://github.com/mdSilo/mdSilo/blob/main/banner.png" alt="mdSilo" width="1000px" /></p>
+
 
 
 We are also working on a desktop app. 
