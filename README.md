@@ -12,6 +12,13 @@ your data is on your device(can be as a single json)
 
 [Web App](https://github.com/danloh/mdSilo-web) 
 
+**Connect More**  
+
+[Gitter](https://gitter.im/mdSilo)  
+
+[Discord](https://discord.gg/cWzfqYkX)  
+
+
 
 <p align="center"><img src="https://github.com/mdSilo/mdSilo/blob/main/banner.png" alt="mdSilo" width="1000px" /></p>
 
