@@ -5,9 +5,11 @@ https://mdsilo.com
 
 mdSilo is an open-source alternative to your writing and knowledge management tool.
 
-[Demo](https://mdsilo.com/writing/)  
+[Demo](https://mdsilo.com/app/demo)  
 
-This is the repo for issue/discussion only. You can find the source code here: [Web app](https://github.com/danloh/mdSilo-web) (WIP) and [Desktop app](https://github.com/danloh/mdSilo-app).
+This is the repo for issue/discussion only. You can find the source code here:
+
+[Web app](https://github.com/danloh/mdSilo-web) and [Desktop app](https://github.com/danloh/mdSilo-app).
 
 
 **Connect More**  
